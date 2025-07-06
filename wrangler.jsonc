@@ -1,0 +1,12 @@
+{
+  "name": "14palette-com",
+  "compatibility_date": "2025-07-06",
+  "main": "worker/index.ts",
+  "assets": {
+    "directory": "dist",
+    "not_found_handling": "single-page-application"
+  },
+  "observability": {
+    "enabled": true
+  }
+}
